@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Offre Emploi</string>
+    <string name="titre">Plateforme d\'Offre Emploi</string>
+    <string name="description">Cette application permet de faire des offres d\'emplois. Vous pouvez visualiser les cvs .</string>
+
+    <string name="listBt">Liste des CV</string>
+
+
+
+</resources>
