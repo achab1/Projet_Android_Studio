@@ -1,32 +1,15 @@
 # Projet de développement mobile: Application pour la recherche d'emploi.
 
-La thématique traitée dans ce travail est du domaine de la 
-recherche d'emploi. 
 
-Dans le dispositif mis en place les accès essentiels sont: 
-
-•Une Présentation du système avec un bouton qui redirige vers la 
-page de visuaisation des CV 
-
-•Une Page de Visualisation (ListView) des CV enrégistrés dans la 
-base MySQL avec Spring boot
 
 ## Backend
- •La partie backend de l'application a été développée sur IntelliJ et utilise une base de données contenant la table 'cv' avec les attibuts: 
- 
--nom
--prenom
--age
--adresse
--email
--telephone
--specialite
--niveauEtude
--experienceProfessionnelle.
-
-• Les technologies utilisées pour le développement sont Spring Boot, Hibernate et MySQL.
+ •La partie backend de l'application a été développée sur IntelliJ et utilise une base de données contenant la table 'cv' .
 
 ![IntelliJ](https://user-images.githubusercontent.com/112700832/234557006-438c0b92-6e95-4e89-ab1e-00ab06f999d7.PNG)
+
+• XAMPP Control Panel a été utilisé pour lancer le serveur MySQL.
+
+![Xampp](https://user-images.githubusercontent.com/112700832/234557341-23f02197-fb8f-40c1-ba9e-edf7b6eaa7cd.PNG)
 
 • Les API ont été testées avec Swagger. 
 
@@ -35,12 +18,8 @@ base MySQL avec Spring boot
 ![Swagger3](https://user-images.githubusercontent.com/112700832/234557211-631a622c-a8b1-4838-b24f-b8235f2b8472.PNG)
 
 
-• XAMPP Control Panel a été utilisé pour lancer le serveur MySQL.
 
-![Xampp](https://user-images.githubusercontent.com/112700832/234557341-23f02197-fb8f-40c1-ba9e-edf7b6eaa7cd.PNG)
-
-
-## Partie Frontend
+## Frontend
 • La partie frontend de l'application a été développée sur Android Studio. 
 
 ![Android1](https://user-images.githubusercontent.com/112700832/234557423-6072dba5-00cd-408b-b70d-cb5f2c4491dc.PNG)
@@ -48,7 +27,6 @@ base MySQL avec Spring boot
 • Nous avons pu tester l'application et la visualiser avec l'emulateur Google Pixel 5 API 30
 
 ![Google pixel 5 api 30 emulateur](https://user-images.githubusercontent.com/112700832/234557660-cd00fdf3-7271-494f-8be5-ebdd702aa39c.PNG)
-![LancementAppli](https://user-images.githubusercontent.com/112700832/234557708-66ec6552-d524-4617-a467-b369a78727b0.PNG)
 
 • L'application comporte 2 pages :
   - Accueil : affiche le nom de l'application, une description et une image. Ensuite, on a un bouton 'Liste des CV' On peut cliquer sur un bouton pour derouler la liste des CV.
