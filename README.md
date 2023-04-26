@@ -52,6 +52,7 @@ base MySQL avec Spring boot
 
 • L'application comporte 2 pages :
   - Accueil : affiche le nom de l'application, une description et une image. Ensuite, on a un bouton 'Liste des CV' On peut cliquer sur un bouton pour derouler la liste des CV.
+
 ![PageListeDesCv](https://user-images.githubusercontent.com/112700832/234557803-b63f2eab-a0f0-4b06-8d25-61b32e7c10ba.PNG)
 
   -Liste des CVs : affiche la liste des CVs enregistrés dans notre base de données.
