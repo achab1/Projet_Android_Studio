@@ -12,6 +12,7 @@ base MySQL avec Spring boot
 
 ## Backend
  •La partie backend de l'application a été développée sur IntelliJ et utilise une base de données contenant la table 'cv' avec les attibuts: 
+ 
 -nom
 -prenom
 -age
@@ -21,13 +22,17 @@ base MySQL avec Spring boot
 -specialite
 -niveauEtude
 -experienceProfessionnelle.
+
 • Les technologies utilisées pour le développement sont Spring Boot, Hibernate et MySQL.
+
 • Les API ont été testées avec Postman et Swagger. 
-• XAMPP Control Panel a été utilisé pour lancer le serveur MySQL
+
+• XAMPP Control Panel a été utilisé pour lancer le serveur MySQL.
 
 
 ## Partie Frontend
 • La partie frontend de l'application a été développée sur Android Studio. 
+
 • L'application comporte 2 pages :
   - Accueil : affiche le nom de l'application, une description et une image. Ensuite, on a un bouton 'Liste des CV' On peut cliquer sur un bouton pour derouler la liste des CV.
   -Liste des CVs : affiche la liste des CVs enregistrés dans notre base de données.
