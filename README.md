@@ -55,4 +55,4 @@ base MySQL avec Spring boot
 ![PageListeDesCv](https://user-images.githubusercontent.com/112700832/234557803-b63f2eab-a0f0-4b06-8d25-61b32e7c10ba.PNG)
 
   -Liste des CVs : affiche la liste des CVs enregistrés dans notre base de données.
-![Page2](https://user-images.githubusercontent.com/112700832/234557859-ab4e6fa4-819b-458f-8796-d0b26e67e359.PNG)
+   ![Page2](https://user-images.githubusercontent.com/112700832/234557859-ab4e6fa4-819b-458f-8796-d0b26e67e359.PNG)
